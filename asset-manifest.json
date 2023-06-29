@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/25_Clock/static/css/main.f76ac12c.css",
+    "main.js": "/25_Clock/static/js/main.b07e327b.js",
+    "index.html": "/25_Clock/index.html",
+    "main.f76ac12c.css.map": "/25_Clock/static/css/main.f76ac12c.css.map",
+    "main.b07e327b.js.map": "/25_Clock/static/js/main.b07e327b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f76ac12c.css",
+    "static/js/main.b07e327b.js"
+  ]
+}
